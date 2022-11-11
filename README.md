@@ -27,16 +27,16 @@ The target variable in this dataset is the *IS_SUCCESSFUL* feature. This feature
 
 These features are considered to be relevant for the model:
 
-* NAME—Identification column
-* APPLICATION_TYPE—Alphabet Soup application type
-* AFFILIATION—Affiliated sector of industry
-* CLASSIFICATION—Government organization classification
-* USE_CASE—Use case for funding
-* ORGANIZATION—Organization type
-* STATUS—Active status
-* INCOME_AMT—Income classification
-* SPECIAL_CONSIDERATIONS—Special consideration for application
-* ASK_AMT—Funding amount requested
+    * NAME—Identification column
+    * APPLICATION_TYPE—Alphabet Soup application type
+    * AFFILIATION—Affiliated sector of industry
+    * CLASSIFICATION—Government organization classification
+    * USE_CASE—Use case for funding
+    * ORGANIZATION—Organization type
+    * STATUS—Active status
+    * INCOME_AMT—Income classification
+    * SPECIAL_CONSIDERATIONS—Special consideration for application
+    * ASK_AMT—Funding amount requested
 
 * **What variable(s) are neither targets nor features, and should be removed from the input data?**
 
